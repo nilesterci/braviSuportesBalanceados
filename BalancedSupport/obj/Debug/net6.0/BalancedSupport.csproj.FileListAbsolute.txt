@@ -1,0 +1,15 @@
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\bin\Debug\net6.0\BalancedSupport.exe
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\bin\Debug\net6.0\BalancedSupport.deps.json
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\bin\Debug\net6.0\BalancedSupport.runtimeconfig.json
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\bin\Debug\net6.0\BalancedSupport.dll
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\bin\Debug\net6.0\BalancedSupport.pdb
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.csproj.AssemblyReference.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.AssemblyInfoInputs.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.AssemblyInfo.cs
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.dll
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\refint\BalancedSupport.dll
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.pdb
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\BalancedSupport.genruntimeconfig.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\BalancedSupport\BalancedSupport\obj\Debug\net6.0\ref\BalancedSupport.dll
